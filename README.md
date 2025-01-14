@@ -5,5 +5,5 @@
 - **Palomino Santa Cruz, Erick Joaquín**  
 - **Palomino Santa Cruz, Bruno Moisés**
 
-### Fecha:
+
 **Febrero 2025**
