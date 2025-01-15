@@ -175,4 +175,24 @@ Creemos que la implementación de Delphi en instituciones educativas y empresas 
 
 ![Lean UX Canvas](https://drive.google.com/uc?id=1iN4v5rxF-nEdJxz_5Fmbf8oVewpwrKIw)
 
+### Segmentos objetivo
+
+#### Estudiantes Universitarios:
+- Buscan herramientas que faciliten la interacción en el aula durante clases presenciales.
+- Valorizan la posibilidad de acceder a la plataforma sin necesidad de instalar software adicional.
+- Necesitan una forma de hacer preguntas de manera anónima para aclarar dudas sin temor a ser juzgados.
+- Quieren una plataforma que les permita seguir la presentación del profesor desde sus dispositivos móviles.
+
+#### Profesores y Educadores:
+- Buscan una herramienta que facilite la interacción y participación de los alumnos durante las clases.
+- Valorizan la capacidad de integrar la plataforma con sus presentaciones de diapositivas.
+- Necesitan una forma de priorizar y responder a las preguntas más relevantes de los estudiantes.
+- Quieren una plataforma que les permita gestionar múltiples sesiones de manera eficiente.
+
+#### Instituciones Educativas y Empresas de Capacitación:
+- Buscan una solución que facilite la interacción entre profesores y alumnos durante sesiones presenciales.
+- Valorizan la posibilidad de personalizar la plataforma según sus necesidades, incluyendo la opción de contar con cuentas premium para un mayor número de usuarios.
+- Necesitan una herramienta que garantice la seguridad y privacidad de los datos de los usuarios.
+- Quieren una plataforma que facilite la recopilación y revisión de preguntas formuladas durante las sesiones de clase.
+
 
