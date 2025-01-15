@@ -37,7 +37,7 @@ Ser la aplicación líder en la transformación de experiencias educativas y col
 Ofrecer una plataforma tecnológica que permita gestionar salas virtuales para clases y reuniones, integrando herramientas como chat en tiempo real y preguntas anónimas. Nuestra misión es potenciar la participación activa y accesible, promoviendo la efectividad en la enseñanza y colaboración.
 
 
-## 2. Solution Profile
+## Solution Profile
 
 ### Contexto y Problema
 
@@ -171,7 +171,8 @@ Creemos que la reducción de la brecha de comunicación en reuniones empresarial
 Creemos que la implementación de Delphi en instituciones educativas y empresas atraerá a más usuarios al destacar como una solución innovadora.  
 **Indicador:** Veremos un aumento en la adopción de la plataforma en ambos segmentos, junto con una mejora en la reputación de las instituciones o empresas que la utilicen.
 
-## 2.3 Lean UX Canvas
+## 1.3 Lean UX Canvas
 
-![Lean UX Canvas](upload://9dGH5shbDFBW6gvpHwsqpu.png)
+![Lean UX Canvas](https://drive.google.com/uc?id=1iN4v5rxF-nEdJxz_5Fmbf8oVewpwrKIw)
+
 
